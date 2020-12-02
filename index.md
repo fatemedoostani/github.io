@@ -1,13 +1,13 @@
 
-### Melika Zamanzadeh
-<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/psld_showstdpic.gif" border="0" alt="آپلود عکس" /></a>
+### fatemeh doostani
+<a href="https://uupload.ir/" target="_blank"><img src="https://uupload.ir/files/t3lc_d288033c-e875-4896-9c9c-2a0a7cdb3db2.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Melika
-+ last name :zamanzadeh
-+ Date of birth : 1997/sep/8
++ name: fatemeh
++ last name :doostani
++ Date of birth : 1997/Des/23
 +  Computer engineering student
 + location : Tehran , I.R.Iran
 
@@ -16,34 +16,26 @@
 
 ---
 + accountant
-+ store software
-+ web design
-+ programming
++ ICDL
 + java script
 
 ### Education
 
 ---
-+ Diploma : hananeh school
++ Diploma : bagherololum
 _ 2015
 + Bachelor of science : computer Engineering
-_ 2016,payam Noor University of parand 
+_ 2018,payam Noor University of parand 
 
 ### Favorites
 
 ---
 + Web design
 + computer games
-+ book reading 
-+ travel 
 
-### working Experience
 
----
-+ store IT expert
-+ car dealership accounting
 
-### [contact with me](melikaa.zamanzade@gmail.com)
+### [contact with me](Lidadoostani@gmail.com)
 
 
 --- 
